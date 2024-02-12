@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunoRaphaell/otimizacao-hiperparametros/blob/aula-02/Projeto_otimiza%C3%A7%C3%A3o_de_modelos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devluz2023/classificacao_otimizacao/blob/main/Projeto_otimiza%C3%A7%C3%A3o_de_modelos.ipynb)
